@@ -23,9 +23,9 @@ Avaliação:
 | Avaliador \ Avaliado |   Erick   |  Gustavo  |  Eduardo  | Antônio Pedro |  Felipe   |   Rafik   |
 |----------------------|-----------|-----------|-----------|----------------|-----------|-----------|
 |        Erick         |     10    |   10      |      10   |        10      |     10    |   10      |  
-|       Gustavo        |           |           |           |                |           |           |
+|       Gustavo        |     10    |   10      |      10   |        10      |     10    |   10      | 
 |       Eduardo        |     10    |   10      |      10   |        10      |     10    |   10      | 
-|    Antônio Pedro     |           |           |           |                |           |           |
+|    Antônio Pedro     |     10    |   10      |      10   |        10      |     10    |   10      | 
 |        Felipe        |           |           |           |                |           |           |
 |        Rafik         |     10    |   10      |      10   |        10      |     10    |   10      | 
 
