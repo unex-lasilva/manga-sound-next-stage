@@ -16,15 +16,13 @@ Um par de fone de ouvido, a sua lista de reprodução favorita e pronto: você e
 6. Rafik Dórea - rafikdorea10@outlook.com
 
 
-Considerações sobre o trabalho: 
-1. Para que as músicas sejam adicionadas corretamente no repositório, o usuário deve informar exatamente o local que o arquivo está ex: C:\Users\erick\Downloads\musica.wav
-2. Pode ser que na reprodução da lista de reprodução ao passar ou voltar uma música, seja necessário reiniciar a lista de reprodução para que os comandos funcionem, tentamos corrigir isso mas não conseguimos, porém depois de reiniciar a lista, os comandos funcionam normalmente.
-3. O código está com descrições propositais nas classes e variáveis para evitar dúvidas.
+Obs: Gustavo Ferreira Rigaud teve problemas para entrar para a organização, um e-mail já foi enviado
+usuário no github: rigaud123
 
 Avaliação:
 | Avaliador \ Avaliado |   Erick   |  Gustavo  |  Eduardo  | Antônio Pedro |  Felipe   |   Rafik   |
 |----------------------|-----------|-----------|-----------|----------------|-----------|-----------|
-|        Erick         |           |           |           |                |           |           |
+|        Erick         |     10       10            10          10              10           10            
 |       Gustavo        |           |           |           |                |           |           |
 |       Eduardo        |           |           |           |                |           |           |
 |    Antônio Pedro     |           |           |           |                |           |           |
