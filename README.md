@@ -22,10 +22,10 @@ usuário no github: rigaud123
 Avaliação:
 | Avaliador \ Avaliado |   Erick   |  Gustavo  |  Eduardo  | Antônio Pedro |  Felipe   |   Rafik   |
 |----------------------|-----------|-----------|-----------|----------------|-----------|-----------|
-|        Erick         |     10       10            10          10              10           10            
+|        Erick         |     10    |   10      |      10   |        10      |     10    |   10      |  
 |       Gustavo        |           |           |           |                |           |           |
 |       Eduardo        |           |           |           |                |           |           |
 |    Antônio Pedro     |           |           |           |                |           |           |
 |        Felipe        |           |           |           |                |           |           |
-|        Rafik         |           |           |           |                |           |           |
+|        Rafik         |     10    |   10      |      10   |        10      |     10    |   10      | 
 
